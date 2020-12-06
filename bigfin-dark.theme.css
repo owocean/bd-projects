@@ -1,0 +1,74 @@
+//META{"name":"Bigfin Dark","description":"It's just a darker dark theme with a little pink accent","author":"owocean#0690","version":"1.0"}*//
+
+/*
+   primary 131215
+   secondary 090909
+*/
+
+.theme-dark {
+    --header-primary: #fff;
+    --header-secondary: #b9bbbe;
+    --text-normal: #dcddde;
+    --text-muted: #72767d;
+    --text-link: #d1a0f2;
+    --channels-default: #8e9297;
+    --interactive-normal: #b9bbbe;
+    --interactive-hover: #dcddde;
+    --interactive-active: #fff;
+    --interactive-muted: #4f545c;
+    --background-primary: #131215;
+    --background-secondary: #090909;
+    --background-secondary-alt: #090909;
+    --background-tertiary: #131215;
+    --background-accent: #4f545c;
+    --background-floating: #18191c;
+    --background-mobile-primary: #131215;
+    --background-mobile-secondary: #131215;
+    --background-modifier-hover: rgba(79,84,92,0.16);
+    --background-modifier-active: rgba(79,84,92,0.24);
+    --background-modifier-selected: rgba(79,84,92,0.32);
+    --background-modifier-accent: hsla(0,0%,100%,0.06);
+    --background-mentioned: rgba(250,166,26,0.05);
+    --background-mentioned-hover: rgba(250,166,26,0.08);
+    --background-message-hover: rgba(58,4,59,0.07);
+    --background-help-warning: rgba(250,166,26,0.1);
+    --background-help-info: rgba(0,176,244,0.1);
+    --scrollbar-thin-thumb: #202225;
+    --scrollbar-thin-track: transparent;
+    --scrollbar-auto-thumb: #202225;
+    --scrollbar-auto-track: #090909;
+    --scrollbar-auto-scrollbar-color-thumb: #202225;
+    --scrollbar-auto-scrollbar-color-track: #2f3136;
+    --elevation-stroke: 0 0 0 1px rgba(4,4,5,0.15);
+    --elevation-low: 0 1px 0 rgba(4,4,5,0.2),0 1.5px 0 rgba(6,6,7,0.05),0 2px 0 rgba(4,4,5,0.05);
+    --elevation-medium: 0 4px 4px rgba(0,0,0,0.16);
+    --elevation-high: 0 8px 16px rgba(0,0,0,0.24);
+    --logo-primary: #fff;
+    --focus-primary: #00b0f4;
+    --radio-group-dot-foreground: #8ea1e1;
+    --guild-header-text-shadow: 0 1px 1px rgba(0,0,0,0.4);
+    --channeltextarea-background: #1d1d21;
+    --activity-card-background: #090909;
+    --textbox-markdown-syntax: #8e9297;
+    --deprecated-card-bg: rgba(32,34,37,0.6);
+    --deprecated-card-editable-bg: rgba(32,34,37,0.3);
+    --deprecated-store-bg: #131215;
+    --deprecated-quickswitcher-input-background: #1d1d21;
+    --deprecated-quickswitcher-input-placeholder: hsla(0,0%,100%,0.3);
+    --deprecated-text-input-bg: rgba(0,0,0,0.1);
+    --deprecated-text-input-border: rgba(0,0,0,0.3);
+    --deprecated-text-input-border-hover: #040405;
+    --deprecated-text-input-border-disabled: #202225;
+    --deprecated-text-input-prefix: #dcddde;
+}
+
+:root {
+    --bd-blue: #d1a0f2;
+    --bd-blue-hover: rgb(56,117,206);
+    --bd-blue-active: rgb(50,104,183);
+    --blurple: #d1a0f2;
+}
+
+.theme-dark .da-peopleList, .theme-dark .da-friendsEmpty {
+    background: #131215;
+}
