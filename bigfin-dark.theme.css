@@ -1,10 +1,5 @@
 //META{"name":"Bigfin Dark","description":"It's just a darker dark theme with a little pink accent","author":"owocean#0690","version":"1.0"}*//
 
-/*
-   primary 131215
-   secondary 090909
-*/
-
 .theme-dark {
     --header-primary: #fff;
     --header-secondary: #b9bbbe;

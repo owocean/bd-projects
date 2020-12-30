@@ -1,0 +1,66 @@
+//META{"name":"Candied Light","description":"Light theme, but a little less cancerous","author":"owocean#0690","version":"1.0"}*//
+
+.theme-light {
+    --header-primary: #383e56;
+    --header-secondary: #0f3057;
+    --text-normal: #2e3338;
+    --text-muted: #747f8d;
+    --text-link: #00587a;
+    --channels-default: #596370;
+    --interactive-normal: #0f3057;
+    --interactive-hover: #2e3338;
+    --interactive-active: #0f3057;
+    --interactive-muted: #c7ccd1;
+    --background-primary: #e1ccec;
+    --background-secondary: #c9b6e4;
+    --background-secondary-alt: #c9b6e4;
+    --background-tertiary: #be9fe1;
+    --background-accent: #747f8d;
+    --background-floating: #c9b6e4;
+    --background-mobile-primary: #f8f9f9;
+    --background-mobile-secondary: #c9b6e4;
+    --background-modifier-hover: rgba(116,127,141,0.08);
+    --background-modifier-active: rgba(116,127,141,0.16);
+    --background-modifier-selected: rgba(116,127,141,0.24);
+    --background-modifier-accent: rgba(6,6,7,0.08);
+    --background-mentioned: rgba(250,166,26,0.1);
+    --background-mentioned-hover: rgba(250,166,26,0.2);
+    --background-message-hover: rgba(6,6,7,0.02);
+    --background-help-warning: rgba(250,166,26,0.1);
+    --background-help-info: rgba(0,103,224,0.1);
+    --scrollbar-thin-thumb: rgba(79,84,92,0.3);
+    --scrollbar-thin-track: transparent;
+    --scrollbar-auto-thumb: #be9fe1;
+    --scrollbar-auto-track: #f2f2f2;
+    --scrollbar-auto-scrollbar-color-thumb: #e3e5e8;
+    --scrollbar-auto-scrollbar-color-track: #f2f3f5;
+    --elevation-stroke: 0 0 0 1px rgba(6,6,7,0.08);
+    --elevation-low: 0 1px 0 rgba(6,6,7,0.1),0 1.5px 0 rgba(6,6,7,0.025),0 2px 0 rgba(6,6,7,0.025);
+    --elevation-medium: 0 4px 4px rgba(0,0,0,0.08);
+    --elevation-high: 0 8px 16px rgba(0,0,0,0.16);
+    --logo-primary: #7289da;
+    --focus-primary: #00b0f4;
+    --radio-group-dot-foreground: #4e5d94;
+    --guild-header-text-shadow: 0 1px 1px hsla(0,0%,100%,0.4);
+    --channeltextarea-background: #f1f1f6;
+    --activity-card-background: #c9b6e4;
+    --textbox-markdown-syntax: #6a7480;
+    --deprecated-card-bg: #f8f9f9;
+    --deprecated-card-editable-bg: rgba(246,246,247,0.6);
+    --deprecated-store-bg: #f8f9f9;
+    --deprecated-quickswitcher-input-background: #c9b6e4;
+    --deprecated-quickswitcher-input-placeholder: rgba(79,84,92,0.3);
+    --deprecated-text-input-bg: rgba(79,84,92,0.02);
+    --deprecated-text-input-border: rgba(79,84,92,0.3);
+    --deprecated-text-input-border-hover: #b9bbbe;
+    --deprecated-text-input-border-disabled: #dcddde;
+    --deprecated-text-input-prefix: #b9bbbe;
+}
+
+.theme-light .da-username {
+    text-shadow: 1px 1px 2px #000;
+}
+
+.theme-light .da-peopleList, .theme-light .da-friendsEmpty {
+    background: #e1ccec;
+}
