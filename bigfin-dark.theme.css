@@ -1,4 +1,10 @@
-//META{"name":"Bigfin Dark","description":"It's just a darker dark theme with a little pink accent","author":"owocean#0690","version":"1.0"}*//
+/**
+ * @name Bigfin Dark
+ * @description It's just a darker dark theme with a little pink accent
+ * @author owocean#0690
+ * @version 1.0
+ * @source https://github.com/owocean/bd-projects
+ */
 
 .theme-dark {
     --header-primary: #fff;
