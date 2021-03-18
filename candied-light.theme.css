@@ -1,4 +1,10 @@
-//META{"name":"Candied Light","description":"Light theme, but a little less cancerous","author":"owocean#0690","version":"1.0"}*//
+/**
+ * @name Candied Light
+ * @description Light theme, but a little less cancerous
+ * @author owocean#0690
+ * @version 1.0
+ * @source https://github.com/owocean/bd-projects
+ */
 
 .theme-light {
     --header-primary: #383e56;
