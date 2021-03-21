@@ -1,10 +1,5 @@
-/**
- * @name Candied Light
- * @description Light theme, but a little less cancerous
- * @author owocean#0690
- * @version 1.0
- * @source https://github.com/owocean/bd-projects
- */
+@import url("https://raw.githubusercontent.com/Discord-Custom-Covers/usrbg/master/snippets/modals.css");
+@import url("https://raw.githubusercontent.com/Discord-Custom-Covers/usrbg/master/snippets/userPopouts.css");
 
 .theme-light {
     --header-primary: #383e56;

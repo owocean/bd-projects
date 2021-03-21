@@ -1,0 +1,9 @@
+{
+	"name": "Candied Light",
+	"description": "Light theme, but a little less cancerous",
+	"version": "1.0.0",
+	"author": "owocean#0690",
+	"theme": "candied.css",
+	"consent": "false",
+	"license": "MIT"
+}

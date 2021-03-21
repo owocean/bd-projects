@@ -1,10 +1,5 @@
-/**
- * @name Bigfin Dark
- * @description It's just a darker dark theme with a little pink accent
- * @author owocean#0690
- * @version 1.0
- * @source https://github.com/owocean/bd-projects
- */
+@import url("https://raw.githubusercontent.com/Discord-Custom-Covers/usrbg/master/snippets/modals.css");
+@import url("https://raw.githubusercontent.com/Discord-Custom-Covers/usrbg/master/snippets/userPopouts.css");
 
 .theme-dark {
     --header-primary: #fff;

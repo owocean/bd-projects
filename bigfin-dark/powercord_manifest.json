@@ -1,0 +1,9 @@
+{
+	"name": "Bigfin Dark",
+	"description": "It's just a darker dark theme with a little pink accent",
+	"version": "1.0.0",
+	"author": "owocean#0690",
+	"theme": "bigfin.css",
+	"consent": "false",
+	"license": "MIT"
+}
